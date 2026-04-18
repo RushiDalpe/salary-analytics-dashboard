@@ -6,8 +6,8 @@ This project analyzes a dataset of 250,000 job records to uncover insights into 
 
 ## 🛠 Tools Used
 
-* Python (Pandas) – Data cleaning & analysis
-* Power BI – Dashboard & visualization
+- Python (Pandas) – Data cleaning & analysis
+- Power BI – Dashboard & visualization
 
 ## 📈 Key Insights
 
